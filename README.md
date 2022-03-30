@@ -1,5 +1,7 @@
 ### Hi | Hola 👋
 
+ <img src="https://github.com/castellarmartinez/castellarmartinez/blob/main/images/me.jpg" width=400 align=right>
+ 
 - 🔭 I’m currently working on REST APIs
 - 🌱 I’m currently learning JavaScript (Node.Js, React, Vanilla), Java, Docker, SQL, AWS (EC2, Route53, S3)
 - 👯 I’m looking to collaborate on backend projects
